@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewreport" content="width=device-width">
+<title> <FONT COLOR="red"> Hola món! </FONT> </title>
+</head>
+<body>
+<h1> <FONT COLOR="blue">LLIBRE PROGRAMACIÓ </FONT> </h1>
+
+ </head>
+    <body>
+  <ul> <h3> ÍNDEX </h3>
+  <li><a href=' /home/a-10985525118/Escriptori/LlibreProgramcacioHtml/capitol1'> Capítol 1 </a href> </li>
+    <li><a href=' /home/a-10985525118/Escriptori/LlibreProgramcacioHtml/capitol2'> Capítol 2 </a></li>
+      <li><a href='/home/a-10985525118/Escriptori/LlibreProgramcacioHtml/capitol3'> Capítol 3</a></li>
+        </ul>
